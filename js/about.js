@@ -3,7 +3,7 @@ var resultId = localStorage.getItem("id");
 
 fetchData();
 
-// Get all the data from Fetch
+// Get all the data from  Fetch
 function fetchData() {
   var Request = new XMLHttpRequest();
   // Fetch the records by particular ID.
