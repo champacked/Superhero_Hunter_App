@@ -1,7 +1,7 @@
 //  getting Id of canvas.
 var canvas = document.getElementById("canvas");
 
-// Now, Traversing on local storage for favourites
+// Now, Traversing on local storage for  favourites
 for (let i = 0; i < localStorage.length; i++) {
   if (localStorage.key(i) == "id") {
     continue;
