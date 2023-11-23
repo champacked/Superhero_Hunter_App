@@ -3,7 +3,7 @@
   Hash (md5) - e9574d69c8e2df30fe7cf289122c7223
  */
 
-//  Get Id from HTML File, & Search query with HTTP Request, then parse it
+//  Get Id from HTML File, & Search query with HTTP Request,  then parse it
 var xhrRequest = new XMLHttpRequest();
 xhrRequest.open(
   "get",
